@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.14+commit.80d49f37"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Sacabambaspis.sol": "SafeMath"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Sacabambaspis.sol": {
+			"keccak256": "0x76bd1021b9fc4b67994c74e65e37b54007874090fddea3cea1677d79d604a55a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://aab8c325d5b2657b3517e73553c1401c4901b381c5fda7213ac8e1759030f456",
+				"dweb:/ipfs/QmVTU7SQG4bu2Ktd5RHEhuN5XsyoU2gYaaQ8U6of7Va9fD"
+			]
+		}
+	},
+	"version": 1
+}
